@@ -97,6 +97,6 @@ A 4-bit Qwen2.5-0.5B summarizing live traffic incidents fully on a Raspberry Pi 
 
 **Tools**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,linux,raspberrypi,git,latex&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn, C++, Linux, Raspberry Pi, Git, LaTeX" height="40"></a>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,linux,raspberrypi,git,latex&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn, C++, Linux, Raspberry Pi, Git, LaTeX" height="40">
 
 Also Hugging Face, YOLO, SAM, LoRA, NVIDIA Jetson, ESP32 and nRF52840.
