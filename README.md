@@ -3,7 +3,9 @@
   <img src="assets/banner-light.png" alt="Mustafa Al Juboori. Can we trust what a vision-language model says it sees? Reliable vision-language models for drones, farms and coral reefs." width="100%">
 </picture>
 
-Computer Engineering undergraduate at **United Arab Emirates University** (CGPA 3.95/4.0, graduating May 2027), research assistant at the **Autonomous Systems Lab**, and visiting researcher at the **eBRAIN Lab, NYU Abu Dhabi**.
+**Computer & AI Engineering @ UAEU · Research Assistant, Autonomous Systems Lab · Vision-language models, reliable multimodal AI, edge AI for UAVs and agriculture**
+
+Undergraduate at United Arab Emirates University (CGPA 3.95/4.0, graduating May 2027) and visiting researcher at the eBRAIN Lab, NYU Abu Dhabi.
 
 I work on **vision-language models that can be trusted outside the benchmark**: models that answer with evidence, check each other and know when to abstain, deployed where errors are costly, on drones, in farms and on coral reefs.
 
@@ -70,13 +72,6 @@ A 4-bit Qwen2.5-0.5B summarizing live traffic incidents fully on a Raspberry Pi 
 </td>
 </tr>
 </table>
-
----|---|
-| [**CoralAgent-TRACE**](https://github.com/mustafanfj/CoralAgent-TRACE) | An agent that plans question-specific tools for coral reef VQA and has an independent verifier check every answer. +3.7 points over GPT-5 zero-shot on a CoralVQA development set. |
-| [**VIDA + PANDA**](https://github.com/mustafanfj/vida-panda-crop-disease) | Seven VLMs diagnose crop disease independently, then debate by name and may only change a verdict with new visual evidence. Debate lifts the weakest panel member by 12.1 points. |
-| [**AeroVerify-VLM**](https://github.com/mustafanfj/AeroVerify-VLM) | Reliability-weighted fusion of several evidence sources, with calibrated abstention, for small VLMs on aerial imagery. Up to +7.0 points accuracy with no fine-tuning. |
-| [**SemUAV-VLM**](https://github.com/mustafanfj/SemUAV-VLM) | A UAV sends the smallest message that still lets the ground station act in time, cutting a 130 kB frame to a 1 kB semantic alert. |
-| [**TinyTraffic**](https://github.com/mustafanfj/TinyTraffic) | A 4-bit Qwen2.5-0.5B summarizing live traffic incidents fully on a Raspberry Pi 4, with a thermal-throttling analysis. |
 
 ---
 
