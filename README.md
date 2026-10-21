@@ -25,7 +25,7 @@ I work on **vision-language models that can be trusted outside the benchmark**: 
 - **SemUAV-VLM: Deadline-aware semantic communication for UAV vision over constrained wireless links**<br>
   **M. Al Juboori**, T. Almazrouei, F. Ullah, H. El-Sayed, M. Ur Rehman. *IEEE Open Journal of Vehicular Technology*, under review.<br>
   [Code](https://github.com/mustafanfj/SemUAV-VLM)
-- **AeroVerify-VLM: Training-free, evidence-grounded visual question answering on UAV imagery with small VLMs**<br>
+- **AeroVerify-VLM**: training-free, evidence-grounded VQA on UAV imagery with small VLMs<br>
   **M. Al Juboori** *et al.* *IEEE Open Journal of Vehicular Technology*, under review.<br>
   [Code](https://github.com/mustafanfj/AeroVerify-VLM)
 
