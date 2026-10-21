@@ -11,8 +11,8 @@ I work on **vision-language models that can be trusted outside the benchmark**: 
 ### Publications
 
 - **A Multi-Agent Vision-Language Debate Framework for Zero-Shot Crop Disease Diagnosis**<br>
-  **M. Al Juboori**†, Z. Abbas†, Z. Al Aghbari, F. Ullah, M. Ur Rehman. *Frontiers in Plant Science*, 2026. († equal contribution)<br>
-  [Code](https://github.com/mustafanfj/vida-panda-crop-disease)
+  **M. Al Juboori**†, Z. Abbas†, Z. Al Aghbari, F. Ullah, M. Ur Rehman. *Frontiers in Plant Science* 17, 2026. († equal contribution)<br>
+  [Paper](https://doi.org/10.3389/fpls.2026.1890016) · [Code](https://github.com/mustafanfj/vida-panda-crop-disease)
 - **SemUAV-VLM: Mission-conditioned semantic communication for UAV visual uplinks**<br>
   **M. Al Juboori** *et al.* *IEEE Open Journal of Vehicular Technology*, under review.<br>
   [Code](https://github.com/mustafanfj/SemUAV-VLM)
