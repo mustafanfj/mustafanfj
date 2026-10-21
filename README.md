@@ -78,8 +78,8 @@ Seven VLMs diagnose crop disease independently, then debate by name and may only
 
 - **Visiting Researcher**, eBRAIN Lab, NYU Abu Dhabi (Jun 2026 – present), with Prof. Muhammad Shafique. Robustness of compressed perception models under adverse conditions.
 - **Research Assistant**, Autonomous Systems Lab, College of Computing and AI, UAEU (Jan 2026 – present), with Dr. Mobeen Ur Rehman.
+- **Research Intern**, AIRoCS Group, MBZUAI, UGRIP 2025 (Jun – Aug 2025), with Dr. Abdalla Swikir. One of 56 selected from 2,000+ applicants (under 3% acceptance). Provably safe learned policies on a 7-DoF Franka Emika arm.
 - **Research Intern**, UAEU SURE+ program (Apr 2025 – Jan 2026), with Dr. Abdulmalik Al Warafy. Deep RL for secure UAV networks.
-- **Research Intern**, AIRoCS Group, MBZUAI (Jun – Aug 2025), with Dr. Abdalla Swikir. Provably safe learned policies on a 7-DoF Franka Emika arm.
 
 ### Funding and awards
 
