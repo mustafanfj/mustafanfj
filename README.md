@@ -20,20 +20,50 @@ I work on **vision-language models that can be trusted outside the benchmark**: 
 - **Underwater image quality assessment using novel domain-specific features and a neural network regressor**<br>
   **M. Al Juboori** *et al.* *ICATCICT 2026*, Springer, accepted.
 - **CoralAgent-TRACE: An evidence-grounded agentic framework for coral reef health assessment and VQA**<br>
-  **M. Al Juboori**, M. Ur Rehman, Z. Abbas. *Frontiers in Marine Science*, under review.<br>
+  **M. Al Juboori**, Z. Abbas, M. Ur Rehman. *Frontiers in Marine Science*, under review.<br>
   [Code](https://github.com/mustafanfj/CoralAgent-TRACE)
 - **SemUAV-VLM: Deadline-aware semantic communication for UAV vision over constrained wireless links**<br>
   **M. Al Juboori**, T. Almazrouei, F. Ullah, H. El-Sayed, M. Ur Rehman. *IEEE Open Journal of Vehicular Technology*, under review.<br>
   [Code](https://github.com/mustafanfj/SemUAV-VLM)
+- **AeroVerify-VLM: Training-free, evidence-grounded visual question answering on UAV imagery with small VLMs**<br>
+  **M. Al Juboori** *et al.* *IEEE Open Journal of Vehicular Technology*, under review.<br>
+  [Code](https://github.com/mustafanfj/AeroVerify-VLM)
 
 Full list, including four more manuscripts under review, on my [website](https://mustafanfj.github.io/#publications).
 
 ---
 
-### Selected projects
+### Featured research
 
-| Project | What it is |
-|---|---|
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mustafanfj/CoralAgent-TRACE"><img src="https://raw.githubusercontent.com/mustafanfj/CoralAgent-TRACE/main/figures/coralagent_architecture.png" alt="CoralAgent-TRACE architecture"></a>
+<p><a href="https://github.com/mustafanfj/CoralAgent-TRACE"><b>CoralAgent-TRACE</b></a><br>
+Plans question-specific tools for coral reef VQA and has an independent verifier check every answer. +3.7 points over GPT-5 zero-shot on CoralVQA.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mustafanfj/AeroVerify-VLM"><img src="https://raw.githubusercontent.com/mustafanfj/AeroVerify-VLM/main/figures/aeroverify_framework.png" alt="AeroVerify-VLM framework"></a>
+<p><a href="https://github.com/mustafanfj/AeroVerify-VLM"><b>AeroVerify-VLM</b></a><br>
+Fuses evidence sources by learned reliability and abstains when unsure. Up to +7.0 points with no fine-tuning, and false "yes" answers cut from 21.8% to 0%.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mustafanfj/SemUAV-VLM"><img src="https://raw.githubusercontent.com/mustafanfj/SemUAV-VLM/main/figures/semuav_pipeline.png" alt="SemUAV-VLM pipeline"></a>
+<p><a href="https://github.com/mustafanfj/SemUAV-VLM"><b>SemUAV-VLM</b></a><br>
+A drone sends the smallest message that still lets the ground act in time: a 1 kB alert with 105× fewer bytes than the best image.</p>
+</td>
+<td width="50%" valign="top">
+<p><a href="https://github.com/mustafanfj/vida-panda-crop-disease"><b>VIDA + PANDA</b></a> · <i>Frontiers in Plant Science</i><br>
+Seven VLMs diagnose crop disease independently, then debate by name and may only change a verdict with new visual evidence. Debate lifts the weakest panel member by 12.1 points.</p>
+<p><a href="https://github.com/mustafanfj/TinyTraffic"><b>TinyTraffic</b></a><br>
+A 4-bit Qwen2.5-0.5B summarizing live traffic incidents fully on a Raspberry Pi 4.</p>
+</td>
+</tr>
+</table>
+
+---|---|
 | [**CoralAgent-TRACE**](https://github.com/mustafanfj/CoralAgent-TRACE) | An agent that plans question-specific tools for coral reef VQA and has an independent verifier check every answer. +3.7 points over GPT-5 zero-shot on a CoralVQA development set. |
 | [**VIDA + PANDA**](https://github.com/mustafanfj/vida-panda-crop-disease) | Seven VLMs diagnose crop disease independently, then debate by name and may only change a verdict with new visual evidence. Debate lifts the weakest panel member by 12.1 points. |
 | [**AeroVerify-VLM**](https://github.com/mustafanfj/AeroVerify-VLM) | Reliability-weighted fusion of several evidence sources, with calibrated abstention, for small VLMs on aerial imagery. Up to +7.0 points accuracy with no fine-tuning. |
