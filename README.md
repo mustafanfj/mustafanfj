@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Mustafa Al Juboori. Can we trust what a vision-language model says it sees? Reliable vision-language models for drones, farms and coral reefs." width="100%">
+  <img src="assets/banner-light.png" alt="Mustafa Al Juboori. Can we trust what a vision system sees? Reliable, trustworthy vision systems and edge AI for drones, farms and coral reefs." width="100%">
 </picture>
 
-**Computer & AI Engineering @ UAEU · Research Assistant, Autonomous Systems Lab · Vision-language models, reliable multimodal AI, edge AI for UAVs and agriculture**
+**Computer & AI Engineering @ UAEU · Research Assistant, Autonomous Systems Lab, UAEU · Visiting Researcher, eBRAIN Lab, NYU Abu Dhabi**
 
-Undergraduate at United Arab Emirates University (CGPA 3.95/4.0, graduating May 2027) and visiting researcher at the eBRAIN Lab, NYU Abu Dhabi.
+Undergraduate at United Arab Emirates University (CGPA 3.95/4.0, graduating May 2027).
 
-I work on **vision-language models that can be trusted outside the benchmark**: models that answer with evidence, check each other and know when to abstain, deployed where errors are costly, on drones, in farms and on coral reefs.
+I build **reliable and trustworthy vision systems** and run them at the edge, where errors are costly: on drones, in farms and on coral reefs.
 
 **Research interests:** efficient and reliable computer vision · multimodal vision-language reasoning · agentic AI · robust perception · edge AI
 
@@ -83,7 +83,8 @@ Seven VLMs diagnose crop disease independently, then debate by name and may only
 
 ### Funding and awards
 
-- 750,000+ AED in research funding, including 650,000 AED with Silal (Agri-Sensei) and 100,000 AED from the R2C program (CropSage)
+- 650,000 AED from Silal for the lab, after we presented Agri-Sensei, our plant disease detector, at Make it in the Emirates 2026
+- 100,000 AED from the R2C program for CropSage, the TwinView dual-view imaging system, now being validated with farmers in Al Ain and commercialized
 - 1st place and 150,000 AED at the P2M Startup Competition 2025, as co-founder and CTO of Dovvi
 - Chancellor's Scholarship for Elite Students · Dean's List
 
