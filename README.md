@@ -1,4 +1,7 @@
-## Hi, I'm Mustafa Al Juboori
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Mustafa Al Juboori. Can we trust what a vision-language model says it sees? Reliable vision-language models for drones, farms and coral reefs." width="100%">
+</picture>
 
 Computer Engineering undergraduate at **United Arab Emirates University** (CGPA 3.95/4.0, graduating May 2027), research assistant at the **Autonomous Systems Lab**, and visiting researcher at the **eBRAIN Lab, NYU Abu Dhabi**.
 
@@ -6,7 +9,12 @@ I work on **vision-language models that can be trusted outside the benchmark**: 
 
 **Research interests:** efficient and reliable computer vision · multimodal vision-language reasoning · agentic AI · robust perception · edge AI
 
-[Website](https://mustafanfj.github.io) · [Google Scholar](https://scholar.google.com/citations?user=BswRTRYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/mustafa-al-juboori-657ba52a4) · [Email](mailto:mustafanfj@gmail.com)
+<p>
+<a href="https://mustafanfj.github.io"><img src="https://img.shields.io/badge/website-mustafanfj.github.io-0B6A66?style=flat-square" alt="Website"></a>
+<a href="https://scholar.google.com/citations?user=BswRTRYAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-profile-0B6A66?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://www.linkedin.com/in/mustafa-al-juboori-657ba52a4"><img src="https://img.shields.io/badge/LinkedIn-connect-0B6A66?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:mustafanfj@gmail.com"><img src="https://img.shields.io/badge/email-mustafanfj%40gmail.com-0B6A66?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
@@ -87,4 +95,8 @@ A 4-bit Qwen2.5-0.5B summarizing live traffic incidents fully on a Raspberry Pi 
 
 ---
 
-**Tools:** Python · PyTorch · Hugging Face · OpenCV · YOLO · SAM · LoRA · scikit-learn · NVIDIA Jetson · Raspberry Pi · Linux · LaTeX
+**Tools**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,linux,raspberrypi,git,latex&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn, C++, Linux, Raspberry Pi, Git, LaTeX" height="40"></a>
+
+Also Hugging Face, YOLO, SAM, LoRA, NVIDIA Jetson, ESP32 and nRF52840.
