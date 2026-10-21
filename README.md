@@ -65,10 +65,9 @@ Fuses evidence sources by learned reliability and abstains when unsure. Up to +7
 A drone sends the smallest message that still lets the ground act in time: a 1 kB alert with 105× fewer bytes than the best image.</p>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/mustafanfj/vida-panda-crop-disease"><img src="https://raw.githubusercontent.com/mustafanfj/vida-panda-crop-disease/main/figures/vida_panda_framework.png" alt="VIDA+PANDA framework"></a>
 <p><a href="https://github.com/mustafanfj/vida-panda-crop-disease"><b>VIDA + PANDA</b></a> · <i>Frontiers in Plant Science</i><br>
 Seven VLMs diagnose crop disease independently, then debate by name and may only change a verdict with new visual evidence. Debate lifts the weakest panel member by 12.1 points.</p>
-<p><a href="https://github.com/mustafanfj/TinyTraffic"><b>TinyTraffic</b></a><br>
-A 4-bit Qwen2.5-0.5B summarizing live traffic incidents fully on a Raspberry Pi 4.</p>
 </td>
 </tr>
 </table>
