@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Mustafa Al Juboori. Can we trust what a vision system sees? Reliable, trustworthy vision systems and edge AI for drones, farms and coral reefs." width="100%">
+  <img src="assets/banner-light.png" alt="Mustafa Al Juboori. Can we trust what a vision system sees? Reliable, trustworthy vision systems that hold up in the real world and run efficiently at the edge." width="100%">
 </picture>
 
 **Computer & AI Engineering @ UAEU · Research Assistant, Autonomous Systems Lab, UAEU · Visiting Researcher, eBRAIN Lab, NYU Abu Dhabi**
 
 Undergraduate at United Arab Emirates University (CGPA 3.95/4.0, graduating May 2027).
 
-I build **reliable and trustworthy vision systems** and run them at the edge, where errors are costly: on drones, in farms and on coral reefs.
+I build **reliable, trustworthy vision systems** that hold up in the real world and run efficiently at the edge.
 
 **Research interests:** efficient and reliable computer vision · multimodal vision-language reasoning · agentic AI · robust perception · edge AI
 
